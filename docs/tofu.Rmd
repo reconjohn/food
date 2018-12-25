@@ -4,6 +4,7 @@ author: "Yohan Min"
 date: "November 22nd, 2018"
 output:
   html_document:
+    keep_md: yes
     toc: true
     toc_float: true
 ---
